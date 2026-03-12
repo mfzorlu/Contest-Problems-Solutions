@@ -4,7 +4,7 @@
 
 ###  Winter Camp'26 Qualification
 
-- [You Heard This One]("winter-camp-qual/You%20Heard%20This%20One.py)
+- [You Heard This One](winter-camp-qual/You%20Heard%20This%20One.py)
 - [Base Design](winter-camp-qual/Base%20Design.py)
 - [Comfort Text](winter-camp-qual/Comfort%20Text.py)
 - [Construction Zone](winter-camp-qual/Construction%20Zone.py)
