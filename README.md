@@ -24,7 +24,7 @@ Additions:  Used /random.py file to explain how game theory problems in CP don't
 
 - ilk soru
 - ikinci soru
-- [Palindrom](spring-camp-qual/palindrom.py)
+- [Palindrom](spring-camp-qual/3-palindrom.py)
 
 ### Huprog'26
 
